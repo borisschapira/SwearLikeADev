@@ -1,6 +1,6 @@
 # Swear Like A `man`
 
-Somebody once wrote "swear like a man" and I read "swear like a `man`" ([this kind](https://en.wikipedia.org/wiki/Man_page)). Let's work with that and laugh a little (I urge you not to insult people. But it's helpful to boo the door that hits your toe).
+Somebody once wrote "swear like a man" and my brain found this so ridiculous that I read "swear like a `man`" ([this kind](https://en.wikipedia.org/wiki/Man_page)). Let's work with that and laugh a little (I urge you not to insult people. But it's helpful to boo the door that hits your toe).
 
 ## English
 

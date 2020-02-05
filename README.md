@@ -39,3 +39,8 @@ Somebody once wrote "swear like a man" and my brain found this so ridiculous tha
 > Va te faire dépiler l'array !
 
 ---
+
+> Y'a que les `const` qui changent pas d'avis.
+
+---
+

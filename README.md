@@ -18,6 +18,10 @@ I urge you not to insult people. Use this to boo the door that hits your toe.
 
 ---
 
+> I don't give a RAM
+
+---
+
 ## Français
 
 > Nom d'une boucle sans sortie !
@@ -46,7 +50,23 @@ I urge you not to insult people. Use this to boo the door that hits your toe.
 
 ---
 
+> Va te faire émuler !
+
+---
+
 > Y'a que les `const` qui changent pas d'valeur.
 
 ---
 
+> Je m'en bats la RAM
+
+---
+
+> J'en ai plein le CPU  
+> variante : J'en ai plein le flux
+
+---
+
+> Et ta sœur, elle code chez Uber ?
+
+---

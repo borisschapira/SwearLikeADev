@@ -4,6 +4,14 @@ Somebody once wrote "swear like a man" and my brain found this so ridiculous tha
 
 ## English
 
+> Fork you!
+
+---
+
+> This is bool shift.
+
+---
+
 ## Français
 
 > Nom d'une boucle sans sortie !
@@ -28,3 +36,6 @@ Somebody once wrote "swear like a man" and my brain found this so ridiculous tha
 
 ---
 
+> Va te faire dépiler l'array !
+
+---

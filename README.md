@@ -1,6 +1,8 @@
 # Swear Like A `man`? Swear like a dev!
 
-Somebody once wrote "swear like a man" and my brain found this so ridiculous that I read "swear like a `man`" ([this kind](https://en.wikipedia.org/wiki/Man_page)). Let's work with that and laugh a little (I urge you not to insult people. But it's helpful to boo the door that hits your toe).
+Somebody once wrote "swear like a man" and my brain found this so ridiculous that I read "swear like a `man`" ([this kind](https://en.wikipedia.org/wiki/Man_page)). Let's work with that and laugh a little, inventing swearwords and idioms by and for our only use.
+
+I urge you not to insult people. Use this to boo the door that hits your toe.
 
 ## English
 
@@ -9,6 +11,10 @@ Somebody once wrote "swear like a man" and my brain found this so ridiculous tha
 ---
 
 > This is bool shift.
+
+---
+
+> (as) crooked as an array of class hooks
 
 ---
 

@@ -50,10 +50,6 @@ I urge you not to insult people. Use this to boo the door that hits your toe.
 
 ---
 
-> Va te faire émuler !
-
----
-
 > Y'a que les `const` qui changent pas d'valeur.
 
 ---

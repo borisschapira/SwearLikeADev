@@ -18,7 +18,17 @@ I urge you not to insult people. Use this to boo the door that hits your toe.
 
 ---
 
+> (to be) `null`-brained
+
+---
+
 > I don't give a RAM
+
+---
+
+> to think like an argument-free function
+
+(to have a definite opinion on everything)
 
 ---
 
@@ -64,5 +74,11 @@ I urge you not to insult people. Use this to boo the door that hits your toe.
 ---
 
 > Et ta sœur, elle code chez Uber ?
+
+---
+
+> penser comme une fonction sans argument
+
+(avoir un avis tranché sur tout)
 
 ---
